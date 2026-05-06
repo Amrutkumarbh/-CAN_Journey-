@@ -1,4 +1,4 @@
-02 — Why Vehicle Networks Were Needed + Early Solutions
+**02 — Why Vehicle Networks Were Needed + Early Solutions**
 
 > **Personal notes from my CAN learning journey** — transcribed from handwritten notes, Page 2
 
@@ -58,11 +58,11 @@ Before a universal standard emerged, each manufacturer built their own proprieta
 
 Issues with Proprietary Early Networks
 
-❌ **No plug-and-play** possible between brands
-❌ **Low re-use** of components across OEMs
-❌ **High cost** — every manufacturer reinvented the wheel
-❌ **ECUs heavily customized** per OEM — no cross-compatibility
-❌ No shared benefits across the industry
+❌ **No plug-and-play** possible between brands.
+❌ **Low re-use** of components across OEMs.
+❌ **High cost** — every manufacturer reinvented the wheel.
+❌ **ECUs heavily customized** per OEM — no cross-compatibility.
+❌ No shared benefits across the industry.
 
 > This fragmentation is what drove the industry toward a universal standard — **CAN (Controller Area Network)**.
 
